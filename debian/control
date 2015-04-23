@@ -1,0 +1,13 @@
+Source: excito-release
+Section: misc
+Priority: important
+Maintainer: Charles Leclerc <leclerc.charles@gmail.com>
+Build-Depends: debhelper (>= 7.2)
+Standards-Version: 3.8.4
+
+Package: excito-release
+Architecture: all
+Depends: ${misc:Depends}
+Description: GnuPG keys of the excito archive and repository configuration
+ All packages and archives are signed, and this package contains
+ the public keys used to verify those.
