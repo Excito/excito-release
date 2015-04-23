@@ -1,2 +1,2 @@
-deb http://repo.excito.org wheezy main
-#deb-src http://repo.excito.org wheezy main
+deb http://repo.excito.org jessie main
+#deb-src http://repo.excito.org jessie main

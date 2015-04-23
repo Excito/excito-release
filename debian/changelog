@@ -1,3 +1,9 @@
+excito-release (2015.04.22.jessie) jessie; urgency=low
+
+  * Jessie version
+
+ -- Charles Leclerc <charles@darkcix>  Thu, 23 Apr 2015 02:36:57 +0000
+
 excito-release (2015.04.22.wheezy) wheezy; urgency=low
 
   * New Excito archive keyring and repository configuration for wheezy+ packages
