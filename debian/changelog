@@ -1,3 +1,9 @@
+excito-release (2015.09.02.jessie) jessie; urgency=medium
+
+  * Added Excito CA
+
+ -- Charles Leclerc <leclerc.charles@gmail.com>  Wed, 02 Sep 2015 22:25:51 -0400
+
 excito-release (2015.04.22.jessie) jessie; urgency=low
 
   * Jessie version
