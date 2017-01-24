@@ -1,3 +1,9 @@
+excito-release (2017.01.23.stretch) stretch; urgency=medium
+
+  * Stretch version
+
+ -- Charles Leclerc <leclerc.charles@gmail.com>  Tue, 24 Jan 2017 01:21:53 +0000
+
 excito-release (2015.04.22.jessie) jessie; urgency=low
 
   * Jessie version
