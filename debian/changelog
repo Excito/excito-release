@@ -1,17 +1,11 @@
+excito-release (2017.07.15.stretch) stretch; urgency=medium
+
+  * Re-added Excito CA
+
+ -- Charles Leclerc <leclerc.charles@gmail.com>  Sat, 15 Jul 2017 14:36:14 -0400
+
 excito-release (2017.01.23.stretch) stretch; urgency=medium
 
   * Stretch version
 
  -- Charles Leclerc <leclerc.charles@gmail.com>  Tue, 24 Jan 2017 01:21:53 +0000
-
-excito-release (2015.04.22.jessie) jessie; urgency=low
-
-  * Jessie version
-
- -- Charles Leclerc <charles@darkcix>  Thu, 23 Apr 2015 02:36:57 +0000
-
-excito-release (2015.04.22.wheezy) wheezy; urgency=low
-
-  * New Excito archive keyring and repository configuration for wheezy+ packages
-
- -- Charles Leclerc <leclerc.charles@gmail.com>  Wed, 22 Apr 2015 18:45:39 +0000
