@@ -1,2 +1,2 @@
-deb http://repo.excito.org stretch main
-#deb-src http://repo.excito.org stretch main
+deb http://repo.excito.org buster main
+#deb-src http://repo.excito.org buster main

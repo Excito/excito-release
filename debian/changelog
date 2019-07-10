@@ -1,11 +1,5 @@
-excito-release (2017.07.15.stretch) stretch; urgency=medium
+excito-release (2019.07.09.buster) buster; urgency=medium
 
-  * Re-added Excito CA
+  * Buster version
 
- -- Charles Leclerc <leclerc.charles@gmail.com>  Sat, 15 Jul 2017 14:36:14 -0400
-
-excito-release (2017.01.23.stretch) stretch; urgency=medium
-
-  * Stretch version
-
- -- Charles Leclerc <leclerc.charles@gmail.com>  Tue, 24 Jan 2017 01:21:53 +0000
+ -- Charles Leclerc <leclerc.charles@gmail.com>  Wed, 10 Jul 2019 02:29:53 +0000
