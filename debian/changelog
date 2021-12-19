@@ -1,3 +1,9 @@
+excito-release (2021.12.19.bullseye) bullseye; urgency=medium
+
+  * Bullseye version
+
+ -- Charles Leclerc <leclerc.charles@gmail.com>  Sun, 19 Dec 2021 15:22:59 +0000
+
 excito-release (2019.07.09.buster) buster; urgency=medium
 
   * Buster version

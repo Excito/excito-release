@@ -1,2 +1,2 @@
-deb http://repo.excito.org buster main
-#deb-src http://repo.excito.org buster main
+deb http://repo.excito.org bullseye main
+#deb-src http://repo.excito.org bullseye main
